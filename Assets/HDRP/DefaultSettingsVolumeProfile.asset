@@ -16,7 +16,7 @@ MonoBehaviour:
   m_AdvancedMode: 0
   rotation:
     m_OverrideState: 1
-    m_Value: 160
+    m_Value: 194
     min: 0
     max: 360
   skyIntensityMode:
@@ -24,7 +24,7 @@ MonoBehaviour:
     m_Value: 0
   exposure:
     m_OverrideState: 1
-    m_Value: -1
+    m_Value: 0
   multiplier:
     m_OverrideState: 0
     m_Value: 1
@@ -200,7 +200,7 @@ MonoBehaviour:
     max: 32
   bounceCount:
     m_OverrideState: 1
-    m_Value: 3
+    m_Value: 4
     min: 1
     max: 31
   m_MinSmoothness:
@@ -444,12 +444,12 @@ MonoBehaviour:
     min: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 0.124
+    m_Value: 0.1
     min: 0
     max: 1
   scatter:
     m_OverrideState: 1
-    m_Value: 0.8
+    m_Value: 0.7
     min: 0
     max: 1
   tint:
